@@ -7,7 +7,7 @@
 Welcome to WSO2 Identity Server
 ===============================
 
----
+--- 
 
 |  Branch | Build Status |
 | :------------ |:-------------
